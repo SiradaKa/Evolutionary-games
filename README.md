@@ -1,5 +1,5 @@
 # Evolutionary games
-**This project is a assigment for the course FFR120 Simulation of Complex Systems.**
+**This project is an assigment for the course FFR120 Simulation of Complex Systems.**
 
 The goal of game theory is to find best strategy to use when interacting with other agents to identify what is likely to lead to the best outcome. 
 
